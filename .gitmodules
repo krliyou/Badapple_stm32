@@ -1,0 +1,4 @@
+[submodule "2.FirmWare/platforms/rt-thread"]
+	path = 2.FirmWare/platforms/rt-thread
+	url = https://github.com/RT-Thread/rt-thread.git
+	branch = lts-v4.1.x
